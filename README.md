@@ -98,9 +98,3 @@ tensorflow
   🧠 Author
 
 Venkat Charan
-Department of Computer Science and Engineering
-Anurag University
-
-📧 Email: 23eg105d14@anurag.edu.in
-
-📅 Year: 2025
